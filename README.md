@@ -37,6 +37,7 @@ En conclusión, la ciencia de datos no es solo una herramienta para las empresas
 ![un panda](https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2018/05/180528-baby-panda-born-malaysia-01.jpg?quality=90&strip=all&ssl=1)
 
 ![mi pasion]([https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2018/05/180528-baby-panda-born-malaysia-01.jpg?quality=90&strip=all&ssl=1](https://images.hive.blog/0x0/https://steemitimages.com/DQmYn9mj5DMGkYfxxdpk9iy5s57hin6TqcSVjLrjS3t38sw/reactivos-proactivos.jpeg))
+![mi trabajo](https://pbs.twimg.com/profile_images/1723699899605405696/vBLF6CXR_400x400.jpg)
 
 
 ## Educación y Cursos
