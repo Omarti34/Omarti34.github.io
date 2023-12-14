@@ -14,6 +14,8 @@
 ## Blog/Post: 
 
 ###Cómo la Ciencia de Datos Puede Contribuir a Resolver Problemas Sociales
+
+
 La ciencia de datos, con su capacidad para analizar grandes volúmenes de información y extraer insights valiosos, tiene un potencial enorme para abordar y resolver problemas sociales complejos. A través del análisis de datos, podemos obtener una comprensión más profunda de las causas raíz de diversos problemas sociales, desde la pobreza y la desigualdad hasta la salud pública y el cambio climático.
 
 Identificación y Análisis de Problemas: Utilizando técnicas de ciencia de datos, podemos identificar patrones y tendencias en problemas sociales, ayudando a entender sus dimensiones y complejidades. Por ejemplo, el análisis de datos de población puede revelar áreas con mayores índices de pobreza o educación deficiente, lo que permite a los responsables de políticas públicas dirigir recursos de manera más efectiva.
@@ -34,10 +36,12 @@ En conclusión, la ciencia de datos no es solo una herramienta para las empresas
 ## Galería de Imágenes
 ![un panda](https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2018/05/180528-baby-panda-born-malaysia-01.jpg?quality=90&strip=all&ssl=1)
 
+![mi pasion]([https://i1.wp.com/nypost.com/wp-content/uploads/sites/2/2018/05/180528-baby-panda-born-malaysia-01.jpg?quality=90&strip=all&ssl=1](https://images.hive.blog/0x0/https://steemitimages.com/DQmYn9mj5DMGkYfxxdpk9iy5s57hin6TqcSVjLrjS3t38sw/reactivos-proactivos.jpeg))
+
 
 ## Educación y Cursos
 - **Licenciatura en Ciencia de Datos, ITAM**
-- **Licenciatura en Economía, Colmex**
+- **Licenciatura en Economía, un año, Colmex**
 - **Cursos adicionales**: Atención al Cliente, Estrategia de Ventas, Finanzas Personales.
 
 ## Contacto
